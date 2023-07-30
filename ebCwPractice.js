@@ -26,12 +26,27 @@
 // Problem Three
 
 
-function hoopCount(n) {
-    if( n < 10) {
-        return ("Keep at it until you get it")
-    } else {
-        return ("Great, now move on to tricks")
-    }
-}
+// function hoopCount(n) {
+//     if( n < 10) {
+//         return ("Keep at it until you get it")
+//     } else {
+//         return ("Great, now move on to tricks")
+//     }
+// }
 
-console.log(hoopCount(12))
+// console.log(hoopCount(12))
+
+
+
+
+// Problrm Four
+
+
+// function goals ( laligaGoals, copaDelReyGoals, ChampionsLeagueGoals) {
+//     return laligaGoals + copaDelReyGoals + ChampionsLeagueGoals
+// }
+
+// console.log(goals(2,4,5))
+
+
+
